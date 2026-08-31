@@ -212,7 +212,12 @@ plugins:
     enabled: true
     options:
       provider: giscus
-      options: {}
+      options: 
+        repo: gorjoe/knowledge
+        repoId: R_kgDOUJL_sA
+        category: Announcements
+        categoryId: DIC_kwDOUJL_sM4DEiqL
+        lang: en
     layout:
       position: afterBody
       priority: 10
